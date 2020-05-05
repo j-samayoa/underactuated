@@ -24,7 +24,7 @@
     <parent link="world" />
     <child link="ground" />
     <!-- slope of the ramp here -->
-    <origin xyz="0 0 0" rpy="0 .04 0"/>
+    <origin xyz="0 0 0" rpy="0 .01 0"/>
 
   </joint>
 
